@@ -1,5 +1,5 @@
-OMF2097 Datafile tools
-======================
+THIS PROJECT IS DEPRECATED
+==========================
 
 This project contains a bunch of commandline tools for creating and modifying
 files used by the game One Must Fall: 2097.
